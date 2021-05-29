@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/jwilder/dockerize
+HostUrl=https://github-releases.githubusercontent.com/25178920/ef020aa8-2eed-11e8-8e0f-c1fcce07ec65?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210505T164437Z&X-Amz-Expires=300&X-Amz-Signature=ab4eb87e22d7fc50c73cfd71567765e9678f2046cdb678838a56ea724705f32d&X-Amz-SignedHeaders=host&actor_id=17218492&key_id=0&repo_id=25178920&response-content-disposition=attachment%3B%20filename%3Ddockerize-linux-amd64-v0.6.1.tar.gz&response-content-type=application%2Foctet-stream
